@@ -13,4 +13,6 @@
 * Sizni methodizga ikki vaqt date1 va date2 kirib keladi va siz o'sha 
   vaqtlar orasidagi kunlarni ketma ketlikda yyyy-MM-dd ko'rinishida chiqaring
   yani for yoki while da va void method bo'ladi
+* Sizni methodizga ikki vaqt date1 va date2 kirib keladi va siz o'sha
+  vaqtlar orasida nechta hafta borligini qayatring
 </details>
