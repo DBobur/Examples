@@ -15,4 +15,9 @@
   yani for yoki while da va void method bo'ladi
 * Sizni methodizga ikki vaqt date1 va date2 kirib keladi va siz o'sha
   vaqtlar orasida nechta hafta borligini qayatring
+* Shunday method qilingki unga kiritgan vaqtimdan to hozirgacha qancha 
+  kun qolgani yoki hozirgi kundan kiritgan vaqtimgacha qancha kun borligi qaytsin
+* Shunday method qilingki unga date1, date2 va spec->secund kirib kelsin va 
+  siz kelgan ikki vaqt oralig'ida qancha bola tug'ilganligini 
+  qaytaring (spec bu bola tug'ulish oralig'i) 
 </details>
