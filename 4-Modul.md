@@ -20,4 +20,6 @@
 * Shunday method qilingki unga date1, date2 va spec->secund kirib kelsin va 
   siz kelgan ikki vaqt oralig'ida qancha bola tug'ilganligini 
   qaytaring (spec bu bola tug'ulish oralig'i) 
+
+
 </details>
